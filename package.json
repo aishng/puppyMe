@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ashleyglidden/puppyMe",
   "dependencies": {
+    "ejs": "^1.0.0",
     "express": "^4.10.0"
   }
 }
