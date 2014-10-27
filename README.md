@@ -1,1 +1,1 @@
-A quick fun app that uses the giphy.com API to serve you up some of the cutest puppy gifs available(...and a few mistagged monsters and kitties). See if you get my favorite - a puppy in a biscuit tube!
+A quick fun app that uses the giphy.com API to serve you up some of the cutest puppy gifs available(...and a few mis-tagged monsters and kitties). See if you get my favorite - a puppy in a biscuit tube!
